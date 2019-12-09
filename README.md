@@ -1,4 +1,6 @@
 # td7
+I have followed the tutorial on Medium about a smart contract named ViperToken.
+
 
 I have taken the code of an existing smart contract named ViperToken. 
 
