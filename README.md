@@ -12,6 +12,9 @@ And deployed the contract with Metamask.
 
 ![alt text](https://github.com/kevinybrahime/td7/blob/master/For%20Readme/REmix1.PNG)
 
+![alt text](https://github.com/kevinybrahime/td7/blob/master/For%20Readme/Remix2.PNG)
+
+![alt text](https://github.com/kevinybrahime/td7/blob/master/For%20Readme/REmix3.PNG)
 
 
 
