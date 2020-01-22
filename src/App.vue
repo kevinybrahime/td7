@@ -84,7 +84,7 @@ import Viper5 from './assets/Viper/5.png';
 import Viper6 from './assets/Viper/6.png';
 import ViperX from './assets/Viper/unknown.png';
 
-const contractAddress = ''; // Your deployed contract's address goes here
+const contractAddress = '0x54f18DeA14875BBd4F30C906f6254bcE2d019861'; // Your deployed contract's address goes here
 // Example:
 // const contractAddress = '0x09r80cnasjfaks93m9v2';
 const vipersMap = [null, Viper1, Viper2, Viper3, Viper4, Viper5, Viper6];
